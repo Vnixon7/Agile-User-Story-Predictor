@@ -5,3 +5,8 @@ The idea of this project was to use Machine Learning to predict story points, co
 The process transforms the documents(title, description) via TF-IDF and uses this to make the appropriate classifications via SVC, and Random Forest classification
 algorithms.
 
+#TODO
+
+50% of the project is finished with all 4 of the models yielding a 90% + accuracy.
+The next part will be generating text from the feature, down to the user story to fully automate the user story process.
+
